@@ -1,0 +1,15 @@
+.wraperContact {
+    display: flex;
+    padding: 16px;
+    border-radius: 8px;
+    justify-content: space-between;
+    border: solid 1px black;
+    width: 300px
+    
+}
+
+.wraperInfo {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
